@@ -23,3 +23,4 @@ for(let e=0;e<5;e++)(function(){const e=["auxclick","beforeunload","blur","chang
 * [MaxAI](https://chromewebstore.google.com/detail/maxai-ask-ai-anything-as/mhnlakgilnojmhinhkckjpncpbhabphi)
 * [Lessonscriptor](https://chromewebstore.google.com/detail/lessonscriptor-%E2%80%93-live-tra/apofgfejefeeepabfbaabdijnokbpcgp)
 * [QuizSolver v2](https://chromewebstore.google.com/detail/quiz-solver-ai-homework-e/cbmfppoidgifajfpfpiifklkdhmlgfca)
+* [NottaAI](https://chromewebstore.google.com/detail/notta-ai-meeting-notetake/kdelkaogljjcbjffjmahedaobfjineig)
